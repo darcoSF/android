@@ -37,8 +37,9 @@
   <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
   <project path="frameworks/av" name="frameworks_av" remote="tv" revision="lp5.0" />
   <project path="frameworks/base" name="frameworks_base" remote="tv" revision="testing" />
-  <project path="frameworks/opt/chips" name="frameworks_opt_chips" remote="tv" revision="lp5.0" />  
-  <project path="packages/apps/Calculator" name="packages_apps_Calculator" remote="tv" revision="lp5.0" />
+  <project path="frameworks/opt/chips" name="frameworks_opt_chips" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/AudioFX" name="packages_apps_AudioFX" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/Calculator" name="packages_apps_Calculator" />
   <project path="packages/apps/CMFileManager" name="packages_apps_CMFileManager" remote="tv" revision="lp5.0" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="tv" revision="lp5.0" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="tv" revision="lp5.0" />
@@ -52,6 +53,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="testing" />
   <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tv" revision="lp5.0" />
   <project path="packages/apps/Terminal" name="packages_apps_Terminal" remote="tv" revision="lp5.0" />
+  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tv" revision="lp5.0" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
@@ -434,7 +436,6 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
-  <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
@@ -469,7 +470,6 @@
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tv" revision="lp5.0" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
