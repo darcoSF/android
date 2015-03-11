@@ -604,6 +604,6 @@
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-sm" name="arm-eabi-4.10" remote="tv" revision="master" /> 
     
   <!-- Slim toolchain gcc and linaro -->
-  <project path="prebuilt" name="android_prebuilt" remote="tv" revision="lp5.0" />    
+  <project path="prebuilt" name="android_prebuilt" remote="tv" revision="lp" />    
     
 </manifest>
