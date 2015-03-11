@@ -36,7 +36,7 @@
   <project path="android" name="android" remote="tv" revision="lp5.0" />
   <project path="bionic" name="android_bionic" remote="tv" revision="cm-12.0" />
   <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
-  <project path="frameworks/av" name="frameworks_av" remote="tv" revision="lp5.0" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="gh" revision="cm-12.0" />
   <project path="frameworks/base" name="frameworks_base" remote="tv" revision="testing" />
   <project path="frameworks/opt/chips" name="frameworks_opt_chips" remote="tv" revision="lp5.0" />
   <project path="packages/apps/AudioFX" name="packages_apps_AudioFX" remote="tv" revision="lp5.0" />
