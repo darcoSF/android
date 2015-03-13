@@ -601,7 +601,9 @@
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7-sm" name="arm-eabi-4.7" remote="tv" revision="master" />
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="arm-eabi-4.8" remote="tv" revision="master" />
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-sm" name="arm-eabi-4.9" remote="tv" revision="master" />
- <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-sm" name="arm-eabi-4.10" remote="tv" revision="master" /> 
+ <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-sm" name="arm-eabi-4.10" remote="tv" revision="master" />
+ <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-sabernaro" name="Martinusbe/SaberNaro-arm-eabi-4.9" remote="gh" revision="master" />
+ <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaromod" name="Martinusbe/LinaroMod-arm-eabi-4.9" remote="gh" revision="master" />
     
   <!-- Slim toolchain gcc and linaro -->
   <project path="prebuilt" name="android_prebuilt" remote="tv" revision="lp" />    
